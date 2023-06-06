@@ -1,6 +1,6 @@
 ### Heyo 👋
 
-- 🔭 I’m currently working on adding more features to my project sites.
+- 🔭 I’m currently studying more DSNA and Typescript.
 - 🌱 I’m currently learning about more CSS features.
 - 👯 I’m looking to collaborate on other projects.
 - 🤔 I’m looking for help with Flask and Express.
